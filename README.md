@@ -9,7 +9,7 @@ An Android application showcasing a list of beers
 - **Local database** - [Room](https://developer.android.com/training/data-storage/room)
 - **Networking** - [Retrofit2](https://square.github.io/retrofit/)
 - **Image Loading** - [Coil-Compose](https://coil-kt.github.io/coil/compose/)
-- **Paging** - [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
+- **Pagination** - [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
 
 ### About Paging3
 [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) is a library that helps you load and display pages of data from a larger dataset from local storage or over network in a performant and memory efficient manner. This library is part of [Android Jetpack](https://developer.android.com/jetpack).
