@@ -1,4 +1,4 @@
-package com.lnight.beerpaging3project.ui.theme
+package com.lnight.beerpaging3project.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.lnight.beerpaging3project.ui.theme
+package com.lnight.beerpaging3project.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build
