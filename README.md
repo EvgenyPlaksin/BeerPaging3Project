@@ -3,11 +3,11 @@
 An Android application showcasing a list of beers
 
 ### Technologies
-- **UI** - [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- **UI** - [Jetpack Compose](https://developer.android.com/jetpack/compose) ([Material3](https://m3.material.io/))
 - **DI** - [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 - **Architecture pattern** - [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - **Local database** - [Room](https://developer.android.com/training/data-storage/room)
-- **Network** - [Retrofit2](https://square.github.io/retrofit/)
+- **Networking** - [Retrofit2](https://square.github.io/retrofit/)
 - **Image Loading** - [Coil-Compose](https://coil-kt.github.io/coil/compose/)
 - **Paging** - [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
 
